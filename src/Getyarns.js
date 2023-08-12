@@ -55,4 +55,6 @@ function filterBadYarns(yarns) {
 
 console.log(filterBadYarns(newCardOrganized))
 
+copy(filterBadYarns(newCardOrganized))
+
 // newCardOrganized
