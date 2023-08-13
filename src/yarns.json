@@ -7,13 +7,6 @@
     "url": "https://getyarn.io/yarn-clip/2bfe9099-70f9-474d-828e-1e55ca06c5b1"
   },
   {
-    "id": 3,
-    "tvShow": "Toy Story (1995)",
-    "subtitle": "The Big One",
-    "time": 1.9,
-    "url": "https://getyarn.io/yarn-clip/1284c869-ddab-4e73-937d-9e0df267f37e"
-  },
-  {
     "id": 4,
     "tvShow": "Finding Nemo",
     "subtitle": "OK I'm done You missed a spot",
@@ -23,16 +16,9 @@
   {
     "id": 6,
     "tvShow": "The SpongeBob Movie: Sponge Out of Water (2015)",
-    "subtitle": "All right Plankton Huh?",
+    "subtitle": "All right Plankton, Huh?",
     "time": 2,
     "url": "https://getyarn.io/yarn-clip/45f2a7c9-823b-4c6b-817a-440ce715da11"
-  },
-  {
-    "id": 7,
-    "tvShow": "A Bug's Life (1998)",
-    "subtitle": "No Put me down Ow",
-    "time": 1.8,
-    "url": "https://getyarn.io/yarn-clip/4d5db2e0-2871-4c68-8f53-8d0c1658591b"
   },
   {
     "id": 8,
@@ -42,32 +28,11 @@
     "url": "https://getyarn.io/yarn-clip/7699634b-4376-4aac-8a0a-7ecf4dc5abab"
   },
   {
-    "id": 9,
-    "tvShow": "Knocked Up (2007)",
-    "subtitle": "Hello Mommy",
-    "time": 1.2,
-    "url": "https://getyarn.io/yarn-clip/f07abcb1-a95b-46ef-ad98-0647f5423e6a"
-  },
-  {
     "id": 10,
     "tvShow": "Finding Nemo",
     "subtitle": "But dude how do you know when they're ready?",
     "time": 2.9,
     "url": "https://getyarn.io/yarn-clip/ee3fdb78-f3d3-46e1-baf7-d992f1b3e001"
-  },
-  {
-    "id": 12,
-    "tvShow": "The Nightmare Before Christmas (1993)",
-    "subtitle": "My bugs My bugs My bugs",
-    "time": 3.5,
-    "url": "https://getyarn.io/yarn-clip/d58f9edf-d52f-4068-b6f6-932b22d2db6b"
-  },
-  {
-    "id": 15,
-    "tvShow": "Toy Story (1995)",
-    "subtitle": "Let's move move move move move",
-    "time": 2,
-    "url": "https://getyarn.io/yarn-clip/10b3dca6-bcdb-4a68-9db8-01bba32d6730"
   },
   {
     "id": 16,
@@ -98,25 +63,11 @@
     "url": "https://getyarn.io/yarn-clip/4c8518f6-838b-4ac2-bba1-3c9bc7895daf"
   },
   {
-    "id": 20,
-    "tvShow": "Rookie of the Year (1993)",
-    "subtitle": "We're going to the Cubs game We're going to the Cubs game",
-    "time": 4,
-    "url": "https://getyarn.io/yarn-clip/58ae1ef3-20c7-4b8e-8636-a37f087a195a"
-  },
-  {
     "id": 21,
     "tvShow": "Game of Thrones (2011) - S02E05",
     "subtitle": "Where are you from?",
     "time": 1.7,
     "url": "https://getyarn.io/yarn-clip/b168e0a8-8756-4f5a-b26a-6a7316fabacf"
-  },
-  {
-    "id": 22,
-    "tvShow": "Wreck-It Ralph (2012)",
-    "subtitle": "San Frantastic Again",
-    "time": 3,
-    "url": "https://getyarn.io/yarn-clip/7af3af4d-ae79-4305-a434-3567f6f1a69e"
   },
   {
     "id": 23,
@@ -155,13 +106,6 @@
     "url": "https://getyarn.io/yarn-clip/5f6189b0-34b2-454b-90e3-ac2a7adc42e0"
   },
   {
-    "id": 33,
-    "tvShow": "As Good as It Gets (1997)",
-    "subtitle": "Old bitch Damn dog",
-    "time": 3.4,
-    "url": "https://getyarn.io/yarn-clip/b648ab21-cee1-46e0-be02-ccaed655c728"
-  },
-  {
     "id": 35,
     "tvShow": "Wreck-It Ralph (2012)",
     "subtitle": "Wait No I'm not What do you have to say for yourself",
@@ -178,7 +122,7 @@
   {
     "id": 37,
     "tvShow": "The Other Guys (2010)",
-    "subtitle": "Nobody leaves our house without making love to my wife",
+    "subtitle": "Nobody leaves our house",
     "time": 1.5,
     "url": "https://getyarn.io/yarn-clip/c2574c87-898a-4d22-a2cb-7f57518b28bb"
   },
@@ -192,14 +136,14 @@
   {
     "id": 39,
     "tvShow": "Bee Movie (2007)",
-    "subtitle": "When will this nightmare end?  Let it all go",
+    "subtitle": "When will this nightmare end?",
     "time": 2.6,
     "url": "https://getyarn.io/yarn-clip/f49ed560-db79-40ee-85a6-bb363de347d4"
   },
   {
     "id": 40,
     "tvShow": "Muppet Treasure Island (1996)",
-    "subtitle": "He told me to  Shut up will ya?",
+    "subtitle": "He told me to...  Shut up will ya?",
     "time": 3.1,
     "url": "https://getyarn.io/yarn-clip/c1d746a1-d574-4b17-9d9c-c162c5ffcd4b"
   },
@@ -213,7 +157,7 @@
   {
     "id": 43,
     "tvShow": "Zootopia (2016)",
-    "subtitle": "Rabbit I did what you asked You can't keep me on the hook forever",
+    "subtitle": "I did what you asked You can't keep me on the hook forever",
     "time": 3.2,
     "url": "https://getyarn.io/yarn-clip/cdddb66f-2caa-4fa3-8330-36341641d21f"
   },
@@ -223,13 +167,6 @@
     "subtitle": "Welcome back Mr Buznik",
     "time": 1.5,
     "url": "https://getyarn.io/yarn-clip/83110371-9c53-4920-9f2c-b00fbd7b4da8"
-  },
-  {
-    "id": 45,
-    "tvShow": "Zootopia (2016)",
-    "subtitle": "What's it to you Wilde?",
-    "time": 1,
-    "url": "https://getyarn.io/yarn-clip/7f75789e-2d6e-4997-8534-4709f34a9210"
   },
   {
     "id": 46,
@@ -255,7 +192,7 @@
   {
     "id": 49,
     "tvShow": "Toy Story 2 (1999)",
-    "subtitle": "Shower Oh I can skip the shower",
+    "subtitle": "Shower! Oh I can skip the shower",
     "time": 2.1,
     "url": "https://getyarn.io/yarn-clip/ce07860a-0fac-44a5-b059-f4debc71da83"
   },
@@ -274,13 +211,6 @@
     "url": "https://getyarn.io/yarn-clip/f7d32508-8bef-42b8-8cc4-bbb6994b6100"
   },
   {
-    "id": 52,
-    "tvShow": "Madagascar: Escape 2 Africa (2008)",
-    "subtitle": "Your oneofamillion friend hopes you enjoy",
-    "time": 3.3,
-    "url": "https://getyarn.io/yarn-clip/b06df60c-4b8e-48da-bcff-e0c4845e8d0e"
-  },
-  {
     "id": 53,
     "tvShow": "Bee Movie (2007)",
     "subtitle": "Let it go Kenny",
@@ -293,13 +223,6 @@
     "subtitle": "we need your help",
     "time": 2.4,
     "url": "https://getyarn.io/yarn-clip/e74682b0-997b-4cee-a9d8-fffa7cfe85ce"
-  },
-  {
-    "id": 57,
-    "tvShow": "Toy Story (1995)",
-    "subtitle": "Tomorrow's forecast? Sunny",
-    "time": 3,
-    "url": "https://getyarn.io/yarn-clip/8051d5be-1e2a-40d5-99af-e4cf35c63228"
   },
   {
     "id": 58,
@@ -330,13 +253,6 @@
     "url": "https://getyarn.io/yarn-clip/156b4796-053d-47d6-8136-d1b29f4962e6"
   },
   {
-    "id": 64,
-    "tvShow": "The Little Mermaid (1989)",
-    "subtitle": "They are trouble  Humans? What about humans?",
-    "time": 4.7,
-    "url": "https://getyarn.io/yarn-clip/018a5c9d-7ad3-4f53-a06d-4344fc5f6332"
-  },
-  {
     "id": 65,
     "tvShow": "Westworld (2016) - S01E01 The Original",
     "subtitle": "They come here every day",
@@ -349,13 +265,6 @@
     "subtitle": "Aha Pay dirt",
     "time": 1.8,
     "url": "https://getyarn.io/yarn-clip/c740957f-96d8-42ca-85af-715195e7ea34"
-  },
-  {
-    "id": 67,
-    "tvShow": "Fight Club (1999)",
-    "subtitle": "Tyler's not here Tyler went away  What?",
-    "time": 3.2,
-    "url": "https://getyarn.io/yarn-clip/dc389496-ad2f-4e4c-bf20-8108a069c5ce"
   },
   {
     "id": 68,
@@ -484,13 +393,6 @@
     "url": "https://getyarn.io/yarn-clip/f668f211-8560-40cb-9dd7-ce775a299088"
   },
   {
-    "id": 89,
-    "tvShow": "Zootopia (2016)",
-    "subtitle": "It's Weaselton Duke Weaselton",
-    "time": 1.9,
-    "url": "https://getyarn.io/yarn-clip/4fb3d613-3311-4e7c-81dd-77be3ebfe7b7"
-  },
-  {
     "id": 92,
     "tvShow": "Team America: World Police (2004)",
     "subtitle": "Very bad INTELLIGENCE  I'm sorry",
@@ -505,20 +407,6 @@
     "url": "https://getyarn.io/yarn-clip/1061c115-cbfd-4b4f-bf1c-1eea4b64b3d7"
   },
   {
-    "id": 94,
-    "tvShow": "The Benchwarmers (2006)",
-    "subtitle": "Hey Get off him",
-    "time": 1.4,
-    "url": "https://getyarn.io/yarn-clip/f425dab7-1ab5-45e8-8d03-27288da096f2"
-  },
-  {
-    "id": 95,
-    "tvShow": "Muppet Treasure Island (1996)",
-    "subtitle": "And it's drawn on a page from the Bible",
-    "time": 2.9,
-    "url": "https://getyarn.io/yarn-clip/abec274b-1bab-49e8-880a-c82fec4f5466"
-  },
-  {
     "id": 97,
     "tvShow": "Toy Story 2 (1999)",
     "subtitle": "Look at the time I'm gonna be late",
@@ -528,14 +416,14 @@
   {
     "id": 98,
     "tvShow": "High School Musical (2006)",
-    "subtitle": "Yeah sure My showerhead is very impressed with me",
+    "subtitle": "Yeah sure! My showerhead is very impressed with me",
     "time": 3.2,
     "url": "https://getyarn.io/yarn-clip/d35503c9-fac8-4842-96d0-50c5c24a81d7"
   },
   {
     "id": 99,
     "tvShow": "Zoolander",
-    "subtitle": "Excuse me bra  You're excused",
+    "subtitle": "Excuse me bra!  You're excused",
     "time": 2.9,
     "url": "https://getyarn.io/yarn-clip/0c0a4299-3c0f-4ea7-9cfc-08174b2b0c83"
   }

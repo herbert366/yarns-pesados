@@ -1,5 +1,5 @@
 /* eslint-disable @next/next/no-head-element */
-import { useState } from 'react'
+import { useRef, useState } from 'react'
 import allYarns from '../yarns.json'
 
 export default function Home() {
@@ -9,10 +9,26 @@ export default function Home() {
     Math.floor(Math.random() * allData.length)
   )
 
-  const handleNextClick = () => {
+  const videoRef = useRef(null)
+
+  const handleCorrectAnswerClick = () => {
     const nextIndex = (currentIndexRandom + 1) % allData.length // Avança para o próximo índice, voltando ao início se chegar ao final
     setCurrentIndexRandom(nextIndex)
     console.log('foi ao próximo', nextIndex, allData[nextIndex].id)
+
+    if (videoRef.current) {
+      videoRef.current.play() // Iniciar a reprodução do vídeo
+    }
+  }
+
+  const handleIncorrectAnswerClick = () => {
+    const actualIndex = currentIndexRandom
+    setCurrentIndexRandom(actualIndex)
+    console.log('foi ao próximo', actualIndex, allData[actualIndex].id)
+
+    if (videoRef.current) {
+      videoRef.current.play() // Iniciar a reprodução do vídeo
+    }
   }
 
   const components = allData.map(yarn => {
@@ -32,7 +48,7 @@ export default function Home() {
         key={yarn.id}
       >
         <video
-          autoPlay
+          ref={videoRef}
           src={videoUrl}
           className=" flex-1 shadow-lg rounded"
         ></video>
@@ -45,7 +61,7 @@ export default function Home() {
     <div className="bg-gray-800 min-h-screen">
       <header className=" p-4 pt-8 flex justify-center">
         <p className="text-neutral-50 text-5xl">
-          🚨 Os yarns Mais rápidos do mundo
+          🚨 Os Yarns Mais Rápidos Do Mundo
         </p>
       </header>
       <main className=" p-2 flex justify-center w-full ">
@@ -54,12 +70,22 @@ export default function Home() {
         "
         >
           {components[currentIndexRandom]}
-          <button
-            onClick={handleNextClick}
-            className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded absolute top-3/4 right-1/4"
-          >
-            Já Sei
-          </button>
+
+          <div className="p-2">
+            <p>"id": {allData[currentIndexRandom].id}</p>
+            <button
+              onClick={handleCorrectAnswerClick}
+              className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded absolute top-3/4 right-1/4"
+            >
+              Acertei
+            </button>
+            <button
+              onClick={handleIncorrectAnswerClick}
+              className="bg-orange-500 hover:bg-orange-700 text-white font-bold py-2 px-4 rounded absolute top-3/4 left-1/4"
+            >
+              Não Acertei
+            </button>
+          </div>
         </div>
       </main>
       <footer className=" p-4 flex justify-center h-full">
